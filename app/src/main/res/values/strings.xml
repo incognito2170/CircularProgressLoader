@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Progress Loader</string>
+    <string name="loadingText">Loading...</string>
+
+</resources>
